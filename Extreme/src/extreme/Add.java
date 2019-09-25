@@ -6,6 +6,7 @@ public class Add {
 		int a=2,b=2;
 		int c=a+b;
 		System.out.println("The value of c :"+ c);
+		System.out.println("true");
 		
 
 	}
